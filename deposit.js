@@ -50,7 +50,3 @@ let totalDeposit= balDepositValue-newDepositFieldValue;
 document.getElementById('balance-total').innerText=totalDeposit;
 
 })
-
-
-
-
